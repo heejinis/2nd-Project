@@ -124,14 +124,6 @@
 
 ![Redis](https://github.com/user-attachments/assets/0c208672-ed6f-42fb-8035-d61ee19ca68d)
 
-* 롤링업데이트
-
-![롤링업데이트](https://github.com/user-attachments/assets/79ac07c7-544e-4632-ae8d-3adabe196f45)
-
-* 롤백
-
-![롤백](https://github.com/user-attachments/assets/f037395e-12d5-4cc5-b52c-d92be477d578)
-
 * 부하테스트 Whatap 모니터링
 
 ![부하테스트 및 Whatap 모니터링](https://github.com/user-attachments/assets/ac0c83a1-62e9-4c79-960f-788232de985f)
