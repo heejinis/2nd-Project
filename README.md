@@ -114,7 +114,7 @@
 ![signup](https://github.com/user-attachments/assets/ce054152-13a2-4f7e-891c-fde07e78db7d)
 
 * 주문
-![order1](https://github.com/user-attachments/assets/6b2db21f-ea70-499c-bde7-2fb7eddca0f2)
+![order1](https://github.com/user-attachments/assets/4f106635-388f-484b-9d16-2bd7ba2ac31b)
 ![order2](https://github.com/user-attachments/assets/8d061288-8323-47f8-b7dd-e3991c8deefe)
 
 
