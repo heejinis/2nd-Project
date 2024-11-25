@@ -102,46 +102,39 @@
 
 
 ## 🧱 아키텍처
-![2차_2조전체시방서](https://github.com/user-attachments/assets/53a36a45-a48e-4b24-83f1-2e72faa8f9eb)
+![전체시방서](https://github.com/user-attachments/assets/b6f4a4f6-f797-48b7-b419-83845250e439)
 
 
 
 ## 🌐 PAGE
 * 메인
-![main](https://github.com/user-attachments/assets/811b036f-5ea2-429a-bba3-93ad8b0ec382)
+![main](https://github.com/user-attachments/assets/41530446-b8ca-4fb6-b6bc-3038d6512a2f)
 
 * 회원가입
-![signup](https://github.com/user-attachments/assets/71703698-b275-4023-8522-18d7b6ccf3a6)
-
-* 로그인
-![login](https://github.com/user-attachments/assets/78fccfa1-f8f3-4498-a574-b1db0ef60341)
+![signup](https://github.com/user-attachments/assets/ce054152-13a2-4f7e-891c-fde07e78db7d)
 
 * 주문
 ![order1](https://github.com/user-attachments/assets/6b2db21f-ea70-499c-bde7-2fb7eddca0f2)
-![order2](https://github.com/user-attachments/assets/1d9ce5a2-f3ce-4506-b9f6-f41a8f8e08b5)
+![order2](https://github.com/user-attachments/assets/8d061288-8323-47f8-b7dd-e3991c8deefe)
 
-* 예약
-![reservation1](https://github.com/user-attachments/assets/d68cb207-5ace-45cf-858b-d4600972db0a)
 
-* 관리자 전용 페이지
-![reservation2](https://github.com/user-attachments/assets/80769e82-93b4-4347-a201-3f26ed17fdaf)
 
 ## 🧪 테스트 영상
 * Redis 적용
 
-![Redis](https://github.com/user-attachments/assets/93e8c1ee-5478-4ea4-b1aa-172540288cad)
+![Redis](https://github.com/user-attachments/assets/0c208672-ed6f-42fb-8035-d61ee19ca68d)
 
 * 롤링업데이트
 
-![롤링업데이트](https://github.com/user-attachments/assets/21ac1a24-0e9f-44bb-892b-fe9ff712ea4e)
+![롤링업데이트](https://github.com/user-attachments/assets/79ac07c7-544e-4632-ae8d-3adabe196f45)
 
 * 롤백
 
-![롤백](https://github.com/user-attachments/assets/78b612c5-2bc8-4ef7-bd9e-c37c1b97b275)
+![롤백](https://github.com/user-attachments/assets/f037395e-12d5-4cc5-b52c-d92be477d578)
 
 * 부하테스트 Whatap 모니터링
 
-![부하테스트 및 Whatap 모니터링](https://github.com/user-attachments/assets/44310c32-d01b-4cd0-9708-8d1e5a9d07d7)
+![부하테스트 및 Whatap 모니터링](https://github.com/user-attachments/assets/ac0c83a1-62e9-4c79-960f-788232de985f)
 
 
 ## 📦 산출물
