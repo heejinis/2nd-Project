@@ -1,2 +1,2 @@
-# 3nd-Project-
+# 2nd-Project
 2차 프로젝트
